@@ -1,0 +1,89 @@
+
+body {
+    background-color: #101313;
+    color: #eaeded;
+}
+
+.navbar {
+    background-color: #1c2222;
+    text-align:center;
+    border-radius:10px;
+    padding:1%
+}
+
+a:link { 
+    text-decoration:none;
+    color: white;
+    font-family:calibri;
+    font-weight:275;
+    padding:10%;
+    font-size:125%
+}
+a:visited {
+    color:white;
+}
+
+
+form {
+    font-family:calibri;
+    text-align:center; 
+    font-size:x-large;
+
+
+}
+.promo {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-size:larger
+}
+
+.cover {
+    object-fit: cover;
+}
+
+.column {
+    flex: 1 1 50%;
+    padding: 5px;
+    box-sizing: border-box;
+    border-radius:50%;
+    font-family:calibri;
+}
+
+.column img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    border-radius: 8px;
+    max-height: 100%;
+    aspect-ratio: 1;
+    text-align: center;
+  
+}
+
+h1 {
+    text-align: center;
+    font-family:calibri
+}
+
+p2 {
+    text-align: center;
+    font-size: 30px;
+    font-family:calibri
+}
+
+p {
+font-family:calibri;
+margin-left:15%;
+margin-right:15%;
+font-size:x-large;
+}
+p3
+img {  
+    border-radius: 8px;
+}
