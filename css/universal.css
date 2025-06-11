@@ -11,17 +11,6 @@ body {
     padding:1%
 }
 
-a:link { 
-    text-decoration:none;
-    color: white;
-    font-family:calibri;
-    font-weight:275;
-    padding:10%;
-    font-size:125%
-}
-a:visited {
-    color:white;
-}
 
 
 form {
@@ -87,3 +76,4 @@ p3
 img {  
     border-radius: 8px;
 }
+
